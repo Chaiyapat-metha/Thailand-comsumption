@@ -2,7 +2,7 @@
 <h3 align="center">Using LSTM and Spatio-Temporal Graph Neural Networks (ST-GNN)</h3>
 
 <p align="center">
-  <img src="https://github.com/Chaiyapat-metha/Thailand-comsumption/Thailand Power Generator.png" alt="Project Screenshot" width="600"/>
+  <img src="https://raw.githubusercontent.com/Chaiyapat-metha/Thailand-comsumption/main/Thailand%20Power%20Generator.png" alt="Thailand Electricity Network" width="600"/>
 </p>
 
 ---
