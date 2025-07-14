@@ -40,14 +40,6 @@ This project focuses on forecasting **Thailand's electricity consumption** using
 
 ---
 
-## 📷 Preview
-
-> _Example visualization of model predictions over time._
-
-![Sample Chart](https://github.com/Chaiyapat-metha/Thailand-comsumption/Thailand Power Generator.png)
-
----
-
 ## 📦 Installation
 
 ```bash
